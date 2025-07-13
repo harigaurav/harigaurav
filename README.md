@@ -19,7 +19,6 @@
   </tr>
 </table>
 
-
 ---
 
 # 💻 Tech Stack:
@@ -44,7 +43,5 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
