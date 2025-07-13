@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Munshi</h1>
-<h3 align="center">An Undergrad Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Crafting Digital Experiences with MERN Stack & Beyond</h3>
+
 
 ---
 
