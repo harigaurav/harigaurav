@@ -2,7 +2,11 @@
 # 💫 About Me:
 🎓 I’m an undergrad | Looking for internships 🔍<br>🌱 I’m currently learning Next.js<br>💬 Ask me about MERN<br>💡 Coding is the art of turning thoughts into things — pure digital magic.
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gaurav-munshi" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
+<a href="mailto:gaurav.munshi@example.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
+</p>
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
