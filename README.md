@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I’m an undergrad 🎓 | Looking for internships 🔍<br>🌱 I’m currently learning Next.js<br>💬 Ask me about MERN<br>💡 Coding is the art of turning thoughts into things — pure digital magic.
+🎓 I’m an undergrad | Looking for internships 🔍<br>🌱 I’m currently learning Next.js<br>💬 Ask me about MERN<br>💡 Coding is the art of turning thoughts into things — pure digital magic.
 
 
 # 💻 Tech Stack:
