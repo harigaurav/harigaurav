@@ -5,19 +5,20 @@
 
 <table>
   <tr>
-    <td width="40%">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="coding gif">
-    </td>
     <td width="60%">
-    
+
 <b>🎓 I’m an undergrad | Looking for internships 🔍</b><br>
 <b>🌱 I’m currently learning Next.js</b><br>
 <b>💬 Ask me about MERN</b><br>
 <b>💡 Coding is the art of turning thoughts into things — pure digital magic.</b>
 
-  </td>
+    </td>
+    <td width="40%">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="coding gif">
+    </td>
   </tr>
 </table>
+
 
 ---
 
