@@ -1,3 +1,12 @@
+<h1 align="center">Hi 👋, I'm Gaurav Munshi</h1>
+<h3 align="center">An Undergrad Developer | MERN Stack Enthusiast</h3>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="coding gif">
+</p>
+
+---
+
 
 # 💫 About Me:
 🎓 I’m an undergrad | Looking for internships 🔍<br>🌱 I’m currently learning Next.js<br>💬 Ask me about MERN<br>💡 Coding is the art of turning thoughts into things — pure digital magic.
