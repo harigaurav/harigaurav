@@ -26,7 +26,7 @@
 
 - 🎓 B.Tech in Applied Electronics & Instrumentation Engineering
 - 📊 Aspiring Data Scientist
-- 🤖 Passionate about Machine Learning, AI & Data Analytics
+- 🤖 Learning about Machine Learning, AI & Data Analytics
 - 📈 Strong foundation in Statistics, EDA and Predictive Modeling
 - 💻 Solved **300+ DSA problems** on LeetCode, GeeksforGeeks & HackerRank
 - 🚀 Looking for Data Science, AI & Machine Learning Internship Opportunities
