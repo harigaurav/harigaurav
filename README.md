@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Munshi</h1>
-<h3 align="center">Entry-Level Data Scientist | Machine Learning & AI Enthusiast</h3>
+<h3 align="center">Entry-Level Data Scientist | Machine Learning | AI</h3>
 
 <table>
   <tr>
