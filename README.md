@@ -10,7 +10,7 @@
 
 🎓 B.Tech Undergraduate (2023–2027) <br>
 🔍 Looking for Data Science & Machine Learning Internships <br>
-📊 Passionate about Machine Learning, AI & Data Analytics <br>
+📊 Learning Machine Learning, AI & Data Analytics <br>
 💻 Solved 300+ DSA problems across LeetCode, GeeksforGeeks & HackerRank <br>
 🚀 Building intelligent solutions with data and AI
 
